@@ -1,0 +1,20 @@
+.jogos_div img
+{
+    width: 535px;
+}
+.filmeshead{
+    font-size: 20px;
+padding: 6px 22px;
+border-radius: 7px;
+margin-bottom: 22px;
+}
+.filmeshead i{
+    float: right;
+}
+.carros{
+    margin-bottom: 90px;
+}
+.carros img{
+    width: 500px;
+    height: 310px;
+}
